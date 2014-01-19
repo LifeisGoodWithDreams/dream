@@ -3,7 +3,7 @@ dream
 
  Peace, peace! he is not dead, he doth not sleep—	
   
-  He hath awakened from the *dream* of life—	
+  He hath awakened from the **dream** of life—	
   
   ’Tis we, who lost in stormy visions, keep
   
